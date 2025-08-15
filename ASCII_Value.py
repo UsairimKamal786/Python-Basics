@@ -5,3 +5,5 @@ if len(char) == 1:
     print(f"The ASCII value of '{char}' is {ascii_value}")
 else:
     print("Please enter only one character.")
+
+
